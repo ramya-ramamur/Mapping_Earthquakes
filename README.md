@@ -15,6 +15,8 @@ GeoJSON earthquake data was pulled from the USGS website to retrieve the geograp
 
 **Link to deployed Interactive Maps webpage:** [Mapping Earthquakes](https://ramya-ramamur.github.io/Earthquake_Mapping/)
 
+Code for final deloyment in [earthquake_challenge](https://github.com/ramya-ramamur/Mapping_Earthquakes/tree/main/earthquake_challenge) folder.
+
 * The map displays all earthquake data over the past 7 days and the tectonic plates are located around the world.
 * Each earthquake and each lineString of tectonic plates boundary will have a popup marker that, when clicked, will show the information.
 * You can choose to toggle the map view from 3 different styles: Street View, Satellite Street View, and Night Navigation modes.

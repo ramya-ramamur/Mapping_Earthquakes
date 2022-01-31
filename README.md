@@ -1,6 +1,6 @@
 Visualization of Earthquake data from US Geological survey using Javascript Leaflet.js library, Javascript, and HTML
 
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
 # Project Overview
 GeoJSON earthquake data was pulled from the USGS website to retrieve the geographical coordinates and magnitudes of earthquakes for the last seven day and create interactive maps of earthquakes around the world. The earthquake data is represented on the maps in relation to the tectonic plates’ location on the earth, and according to each event's magnitude.
@@ -13,7 +13,7 @@ GeoJSON earthquake data was pulled from the USGS website to retrieve the geograp
 
 # Results
 
-**Link to deployed Interactive Maps webpage:** [Mapping Earthquakes](https://ramya-ramamur.github.io/Mapping_Earthquakes/)
+**Link to deployed Interactive Maps webpage:** [Mapping Earthquakes](https://ramya-ramamur.github.io/Earthquake_Mapping/)
 
 * The map displays all earthquake data over the past 7 days and the tectonic plates are located around the world.
 * Each earthquake and each lineString of tectonic plates boundary will have a popup marker that, when clicked, will show the information.

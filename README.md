@@ -13,8 +13,6 @@ GeoJSON earthquake data was pulled from the USGS website to retrieve the geograp
 
 # Results
 
-**Link to deployed Interactive Maps webpage:** [Mapping Earthquakes](https://ramya-ramamur.github.io/Earthquake_Mapping/)
-
 Code for final deloyment in [earthquake_challenge](https://github.com/ramya-ramamur/Mapping_Earthquakes/tree/main/earthquake_challenge) folder.
 
 * The map displays all earthquake data over the past 7 days and the tectonic plates are located around the world.
